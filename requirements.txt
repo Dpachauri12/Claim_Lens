@@ -1,0 +1,11 @@
+streamlit
+openai
+langchain
+langchain-community
+pdfplumber
+PyMuPDF
+python-dotenv
+requests
+pandas
+fpdf
+beautifulsoup4
